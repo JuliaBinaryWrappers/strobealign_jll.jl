@@ -1,0 +1,34 @@
+[[strobealign]]
+arch = "x86_64"
+git-tree-sha1 = "7662f09123b1099fddc7e1deb0e957f06fc83e77"
+libc = "glibc"
+os = "linux"
+
+    [[strobealign.download]]
+    sha256 = "b19f3e34f1f66003f85e35ad647999eb63da5394b357397342d2776274433f2a"
+    url = "https://github.com/JuliaBinaryWrappers/strobealign_jll.jl/releases/download/strobealign-v0.13.0+0/strobealign.v0.13.0.x86_64-linux-gnu.tar.gz"
+[[strobealign]]
+arch = "x86_64"
+git-tree-sha1 = "7a5dd19b49a70ddf840208a6fa26e430d8671983"
+libc = "musl"
+os = "linux"
+
+    [[strobealign.download]]
+    sha256 = "264706bddc2befcf74c663a010958a6ebc346d7a36623dbf7685a08d2d2bce81"
+    url = "https://github.com/JuliaBinaryWrappers/strobealign_jll.jl/releases/download/strobealign-v0.13.0+0/strobealign.v0.13.0.x86_64-linux-musl.tar.gz"
+[[strobealign]]
+arch = "x86_64"
+git-tree-sha1 = "36521d7192b48e7f42c34309cf876bf2c4ee79ca"
+os = "freebsd"
+
+    [[strobealign.download]]
+    sha256 = "b9542f307bbf713f5daee8fcc41cb5c5d50b2bf7d6c8b7582a4c57a5ed9cbf3c"
+    url = "https://github.com/JuliaBinaryWrappers/strobealign_jll.jl/releases/download/strobealign-v0.13.0+0/strobealign.v0.13.0.x86_64-unknown-freebsd.tar.gz"
+[[strobealign]]
+arch = "x86_64"
+git-tree-sha1 = "59ca3c25f2fbb0c5ba856e76c9e552734dd6ac5e"
+os = "windows"
+
+    [[strobealign.download]]
+    sha256 = "169292c5009be66ec415aa61d35223800bd5b38a943a63d00b3b9701de18f0d5"
+    url = "https://github.com/JuliaBinaryWrappers/strobealign_jll.jl/releases/download/strobealign-v0.13.0+0/strobealign.v0.13.0.x86_64-w64-mingw32.tar.gz"
